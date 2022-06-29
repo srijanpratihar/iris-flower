@@ -1,4 +1,4 @@
-!pip install tensorflow
+
 import tensorflow as tf
 from tensorflow import keras
 import streamlit as st
